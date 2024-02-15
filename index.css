@@ -24,37 +24,37 @@ body {
   }
   
   .a {
-    background-image: url("./image/tom.webp");
+    background-image: url("./images/tom.webp");
     background-size: contain;
     background-position: center;
   }
   
   .s {
-    background-image: url("./image/tom.webp");
+    background-image: url("./images/tom.webp");
     background-size: contain;
     background-position: center;
   }
   
   .d {
-    background-image: url("./image/tom.webp");
+    background-image: url("./images/tom.webp");
     background-size: contain;
     background-position: center;
   }
   
   .j {
-    background-image: url("./image/snare.jpg");
+    background-image: url("./images/snare.jpg");
     background-size: contain;
     background-position: center;
   }
   
   .k {
-    background-image: url("./image/cymble.jpg");
+    background-image: url("./images/cymble.jpg");
     background-size: contain;
     background-position: center;
   }
   
   .l {
-    background-image: url("./image/kick-drum.jpg");
+    background-image: url("./images/kick-drum.jpg");
     background-size: contain;
     background-position: center;
   }
